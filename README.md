@@ -1,4 +1,4 @@
 # HelloWorld
 First  Repository. Just for learning
 Editing branch
-I love :cricket :coke :analytics
+I love :pizza:, :mango: and :cricket:
